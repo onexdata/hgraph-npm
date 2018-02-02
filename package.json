@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/onexdata/hgraph-npm/issues"
   },
-  "homepage": "https://github.com/onexdata/hgraph-npm#readme"
+  "homepage": "https://github.com/onexdata/hgraph-npm#readme",
+  "dependencies": {
+    "d3": "^4.13.0"
+  }
 }
