@@ -1,1 +1,1 @@
-export {default as HGraph} from "./lib/HealthGraph.js"
+module.exports = require("./lib/HealthGraph.js")
